@@ -6,7 +6,7 @@ I love playing videogames, and also making them! <br />
 I embrace diversity and only consider working in places where they do too! 🌈
 <br />
 
-- 💼 Currently looking for a job as a Mobile Engineer (React Native)
+- 💼 Currently working at PortAventura World as a Senior Mobile Engineer (React Native)
 - 🌱 I’m currently learning [Godot](https://godotengine.org/)
 - ⚡ Fun facts: I have 3 cats and I play guitar
 
