@@ -12,7 +12,7 @@ I embrace diversity and only consider working in places where they do too! 🌈
 
 ### Fun Projects
 
-- [Pirates Royale](http://6bc5e59.online-server.cloud:5000): A multiplayer top-down sail-ship combat game made with Node.js, React, and Socket.io
+- [Pirates Royale](http://82.223.1.86:5000): A multiplayer top-down sail-ship combat game made with Node.js, React, and Socket.io
 
 ### Connect with me:
 
